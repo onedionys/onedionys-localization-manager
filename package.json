@@ -1,0 +1,41 @@
+{
+  "name": "onedionys-localization-manager",
+  "version": "1.0.0",
+  "description": "One Dionys (Localization Manager) - Manager to manage various local resources in multilingual applications.",
+  "main": "src/localizationManager.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-localization-manager.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "localization-manager"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-localization-manager/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-localization-manager#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "onedionys-authentication-tokens-management": "^1.0.0",
+    "onedionys-charting-library-integration": "^1.0.0",
+    "onedionys-image-cropping-tool": "^1.0.0",
+    "onedionys-image-gallery-component": "^1.0.0",
+    "onedionys-lazy-loading-components": "^1.0.0"
+  }
+}
