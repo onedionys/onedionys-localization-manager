@@ -1,6 +1,6 @@
 {
   "name": "onedionys-localization-manager",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "One Dionys (Localization Manager) - Manager to manage various local resources in multilingual applications.",
   "main": "src/localizationManager.js",
   "directories": {
